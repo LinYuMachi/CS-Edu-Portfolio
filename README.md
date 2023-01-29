@@ -5,3 +5,4 @@ Personal portfolio website for EDS 124BR
 2. Video Explanation of loops in a program: https://youtu.be/kbOw7yrj82k
 3. Video Explanation of loops in Animal Parade: https://youtu.be/TfWBhULNNb8
 4. Video Explanation of nested loop: https://youtu.be/QQt842iyS4k
+5. Video Explanation of Events: https://youtu.be/kdGSjvV8JzA
