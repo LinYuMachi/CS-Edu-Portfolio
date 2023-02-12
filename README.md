@@ -7,3 +7,4 @@ Personal portfolio website for EDS 124BR
 4. Video Explanation of nested loop: https://youtu.be/QQt842iyS4k
 5. Video Explanation of Events: https://youtu.be/kdGSjvV8JzA
 6. Video Explanation of Variables: https://youtu.be/C7y3KMasqf8
+7. Video Explanation of Conditional loops: https://youtu.be/3RjMgw2v_08
