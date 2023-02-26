@@ -9,3 +9,4 @@ Personal portfolio website for EDS 124BR
 6. Video Explanation of Variables: https://youtu.be/C7y3KMasqf8
 7. Video Explanation of Conditional loops: https://youtu.be/3RjMgw2v_08
 8. Video Explanation of if-else: https://youtu.be/0vXQo4J-3mY
+9. Video Explanation of nested conditional loops: https://youtu.be/cDId_MuK1SI
