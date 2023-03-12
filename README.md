@@ -11,3 +11,4 @@ Personal portfolio website for EDS 124BR
 8. Video Explanation of if-else: https://youtu.be/0vXQo4J-3mY
 9. Video Explanation of nested conditional loops: https://youtu.be/cDId_MuK1SI
 10. Video Explanation of Compound conditions: https://youtu.be/J6q5QxjJ43I
+11. Video Explanation of Abstraction: https://youtu.be/E4l8T9wc8k8
