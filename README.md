@@ -12,3 +12,4 @@ Personal portfolio website for EDS 124BR
 9. Video Explanation of nested conditional loops: https://youtu.be/cDId_MuK1SI
 10. Video Explanation of Compound conditions: https://youtu.be/J6q5QxjJ43I
 11. Video Explanation of Abstraction: https://youtu.be/E4l8T9wc8k8
+12. Video Explanation of Lists: https://youtu.be/q7LcJ6zkKXo
