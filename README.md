@@ -1,5 +1,4 @@
-# EDS-124BR-Winter-2023
-Personal portfolio website for EDS 124BR
+Personal computer education portfolio
 
 1. Video Explanation of a sequence program: https://youtu.be/8dstm7nyH4I
 2. Video Explanation of loops in a program: https://youtu.be/kbOw7yrj82k
